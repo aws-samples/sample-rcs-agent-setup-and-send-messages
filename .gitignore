@@ -1,0 +1,19 @@
+# Generated files
+brand-assets/*.png
+examples/config.json
+temp/
+
+# Blog draft (managed in Chorus)
+rcs-blog-post.md
+
+# Holmes scan cache
+.holmes/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
