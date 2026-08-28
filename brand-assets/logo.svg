@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="224" viewBox="0 0 224 224">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D47A1"/>
+      <stop offset="100%" style="stop-color:#1565C0"/>
+    </linearGradient>
+  </defs>
+  <rect width="224" height="224" rx="40" fill="url(#bg)"/>
+  <!-- Message bubble icon -->
+  <g transform="translate(112,90)">
+    <path d="M-48,-36 L48,-36 C54,-36 58,-32 58,-26 L58,16 C58,22 54,26 48,26 L10,26 L0,42 L-10,26 L-48,26 C-54,26 -58,22 -58,16 L-58,-26 C-58,-32 -54,-36 -48,-36 Z" fill="white" opacity="0.95"/>
+    <!-- Signal waves inside bubble -->
+    <path d="M-20,-12 C-14,-20 14,-20 20,-12" stroke="#0D47A1" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <path d="M-14,-2 C-9,-8 9,-8 14,-2" stroke="#0D47A1" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <circle cx="0" cy="6" r="4" fill="#0D47A1"/>
+  </g>
+  <!-- Brand text -->
+  <text x="112" y="168" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="white">AWS EUM</text>
+  <text x="112" y="188" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="white" opacity="0.85">DEMO</text>
+</svg>

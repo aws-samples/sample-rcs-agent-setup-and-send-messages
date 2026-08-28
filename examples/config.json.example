@@ -1,0 +1,4 @@
+{
+  "rcsAgentArn": "arn:aws:sms-voice:us-east-1:111122223333:rcs-agent/rcs-a1b2c3d4",
+  "destinationPhoneNumber": "+12065550100"
+}
